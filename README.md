@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Casey</h1>
-<h3 align="center">Recent web dev bootcamp grad, hopefully a full-time Full Stack Developer soon!</h3>
+<h3 align="center">I have been a developer for over a year now and have a passion for building tools that have an impact and make people's lives easier</h3>
 
-- 🔭 I’m currently working on [minder](minder.quest)
+- 🔭 I currently work at an agency called Webistry
 
-- 🌱 I’m currently learning **React, Rails & further API integrations**
+- 🌱 I’m currently learning **React, Node & further API integrations**
 
-- 🤝 I’m looking for help with **finding a job ;)**
+- 🤝 I’m looking to **meet new people, learn about new projects and hear about cool new tech;)**
 
 - ⚡ Fun fact **I am a sleep walker, talker and puncher!**
 
