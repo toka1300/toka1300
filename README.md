@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Casey</h1>
-<h3 align="center">I have been a developer for over a year now and have a passion for building tools that have an impact and make people's lives easier</h3>
+<h3 align="center">I have been a developer for two years now and have a passion for building tools that have an impact and make people's lives easier</h3>
 
 - 🔭 I have started my own company called New Growth Web Solutions, helping small businesses launch their websites
 
