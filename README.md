@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Casey</h1>
 <h3 align="center">I have been a developer for over a year now and have a passion for building tools that have an impact and make people's lives easier</h3>
 
-- 🔭 I currently work at an agency called Webistry
+- 🔭 I have started my own company called New Growth Web Solutions, helping small businesses launch their websites
 
 - 🌱 I’m currently learning **React, Node & further API integrations**
 
